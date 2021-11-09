@@ -48,10 +48,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Hereford, UK
+  - line: Hereford
+  - lines: West Midlands, UK
 
 # Credits content
-credits: 'Website created with the <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a>.'
+credits: 'Website created with the <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a>'
 
 # Build settings
 markdown: kramdown
