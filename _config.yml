@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Josh Anthony
+email: ja14801@my.bristol.ac.uk
+url: https://shadowsora211.github.io/
+description: "Josh Anthony game development portfolio website. Check out my projects and get in touch!"
+keywords: "Game dev, game programmer, pixel art, 8bit, VR, AR, virtual reality"
+skills: "Software Engineer - Game Developer"
+meta_author: Anthony Josh
 
 # Google webmaster tools
 google_verify:
@@ -32,31 +32,26 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Josh Anthony
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+  - title: linkedin
+    url: https://www.linkedin.com/in/josh-anthony-807621a7/
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://stackoverflow.com/users/6584553/shadowsora
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/shadowsora211
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Hereford, UK
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Website created with the <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a>.'
 
 # Build settings
 markdown: kramdown
