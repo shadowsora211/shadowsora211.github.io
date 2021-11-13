@@ -2,10 +2,11 @@
 layout: default
 modal-id: 6
 date: 2014-07-13
-img: submarine.png
+img: neonwings.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July - October 2017
+client: Android Game
+category: Unity, C#
+description: Neon Wings is a pixel art Android game that I developed with Daniel Bluchu in my free time during my final year of university. I did the programming and music and Daniel Bluchu did the art. You play as a pilot who is on the run from war and you must survive as long as possible by dodging enemies and collecting power-ups. However, to add to the difficulty, the background constantly changes colour, hiding and revealing different enemies.
+link: https://play.google.com/store/apps/details?id=com.ShyGhostGames.NeonWings
 ---
