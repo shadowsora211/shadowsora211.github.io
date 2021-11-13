@@ -34,13 +34,11 @@
                                         <strong>{{ post.category }}</strong>
                                     </li>
                                 {% endif %}
-                                {% if post.link %}
-                                <li>
-                                    <strong><a href="{{ post.link }}">See Project</a>
-                                    </strong>
-                                </li>
-                                {% endif %}
                             </ul>
+                            {% if post.link %}
+                            <strong><a href="{{ post.link }}">See Project</a>
+                            </strong>
+                            {% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
