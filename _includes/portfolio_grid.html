@@ -10,14 +10,14 @@
             </div>
             <div class="portfolio-flex-row">
                 {% for post in site.posts %}
-                    <div class="portfolio-flex-item portfolio-item" style="overflow: hidden; max-height: 300px;">
+                    <div class="portfolio-flex-item portfolio-item" style="overflow: hidden;">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img style="margin: auto auto;" src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <img style="max-height: 300px; margin: 0 auto;" src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
                 {% endfor %}
