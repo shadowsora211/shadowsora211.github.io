@@ -2,10 +2,11 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: soundverse.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Feb - April 2018
+client: VR Application
+category: Unity, C#, VRTK, Photon
+description: SoundVerse VR is a platform for live virtual reality concerts that I developed for my masters thesis “Live, VR concerts using HMDs” at University of Bristol. The musician can import their own sound files and perform their music using virtual instruments (a loop pad and a keyboard). It supports Oculus Rift, HTC Vive, and other headsets.
+link: https://youtu.be/4nSJ17BHdJE
 ---
