@@ -4,7 +4,7 @@ email: f/xyylrwgk
 url: https://shadowsora211.github.io/
 description: "Josh Anthony game development portfolio website. Check out my projects and get in touch!"
 keywords: "Game dev, game programmer, pixel art, 8bit, VR, AR, virtual reality"
-skills: "Software Engineer - Game Developer"
+skills: "Game Developer - Japanese Language Student"
 meta_author: Anthony Josh
 
 # Google webmaster tools
@@ -48,8 +48,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Hereford
-  - line: West Midlands, UK
+  - line: Shinjuku City
+  - line: Tokyo, Japan
 
 # Credits content
 credits: 'Website created with the <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a>'
