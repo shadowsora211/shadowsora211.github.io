@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: pitchdash
-date: 2014-07-18
+date: 2014-07-20
 img: pitchdash.gif
 alt: image-alt
 project-date: March - November 2021

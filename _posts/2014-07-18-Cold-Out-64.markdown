@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: coldout
-date: 2014-07-20
+date: 2014-07-18
 img: coldout.gif
 alt: image-alt
 project-date: April 2024
