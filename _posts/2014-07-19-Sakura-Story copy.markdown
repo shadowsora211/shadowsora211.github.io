@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: -1
+date: 2014-07-20
+img: couldout.gif
+alt: image-alt
+project-date: April 2024
+client: Web Game
+category: Unity, C#
+description: (Placeholder) Help out your little brother, Pixel, to build an awesome snowman! if you search around, you might find some cool and unusual items to make the best snowman in the whole village (which consists of 2 houses and a tractor)... This game was originally made in 3 days for Cozy Winter Jam 2023. During the jam, we did not have enough time to add proper character models or polish our game, so we submitted what we had made as a demo version. Since the jam finished, we have updated the game to be how we originally intended it to be. There are 3 different endings depending on how you decorate your snowman
+link: https://shadowsora211.itch.io/cold-out-64
+---
