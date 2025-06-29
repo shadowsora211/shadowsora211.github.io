@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: neonwings
 date: 2014-07-13
 img: neonwings.gif
 alt: image-alt

@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 4
+modal-id: kittycopter
 date: 2014-07-15
 img: kittycopter.gif
 alt: image-alt

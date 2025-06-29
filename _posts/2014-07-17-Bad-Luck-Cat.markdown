@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: badluckcat
 date: 2014-07-17
 img: badluckcat.gif
 alt: image-alt

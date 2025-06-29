@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: -2
-date: 2014-07-20
+modal-id: hackandslash
+date: 2014-07-21
 img: hackandslash.gif
 alt: image-alt
 project-date: 2022-2025

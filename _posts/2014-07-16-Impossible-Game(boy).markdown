@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: impossiblegb
 date: 2014-07-16
 img: impossiblegb.gif
 alt: image-alt

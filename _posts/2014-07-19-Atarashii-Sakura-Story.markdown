@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 0
+modal-id: sakurastory
 date: 2014-07-19
 img: sakurastory.gif
 alt: image-alt
