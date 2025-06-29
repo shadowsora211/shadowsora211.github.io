@@ -1,11 +1,11 @@
 # Site settings
-title: Josh Anthony
+title: Joshua Anthony
 email: f/xyylrwgk
 url: https://shadowsora211.github.io/
-description: "Josh Anthony game development portfolio website. Check out my projects and get in touch!"
+description: "アンソニー・ジョシュアのゲーム開発ポートフォリオサイト。プロジェクトの紹介やお問い合わせはこちらをご覧ください！"
 keywords: "Game dev, game programmer, pixel art, 8bit, VR, AR, virtual reality"
-skills: "Game Developer - Japanese Language Student"
-meta_author: Anthony Josh
+skills: "ゲームプログラマー"
+meta_author: Anthony Joshua
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Josh Anthony
+  copyright: Joshua Anthony
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/josh-anthony-807621a7/
+    url: https://www.linkedin.com/in/joshua-anthony-807621a7/
   - title: stack-overflow
     url: https://stackoverflow.com/users/6584553/shadowsora
   - title: github
@@ -48,8 +48,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Shinjuku City
-  - line: Tokyo, Japan
+  - line: 埼玉県
+  - line: 日本
 
 # Credits content
 credits: 'Website created with the <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a>'
