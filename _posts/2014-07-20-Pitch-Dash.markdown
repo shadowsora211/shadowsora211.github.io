@@ -7,6 +7,11 @@ alt: image-alt
 project-date: March - November 2021
 client: Android Game
 category: Unity, C#
-description: Pitch Dash is a rhythm game for studying Japanese pitch accent! The game helps you learn the pitch accent patterns for 175 common words, including lots of words that have the same reading but different pitch accent like あ↑め↓ (rain) and あ↓め↑ (candy). The game is free on the Google Play store. It was developed in Unity and I created all assets for the game including the soundtrack. I made this game because I wanted to start studying Japanese pitch accent, but I couldn't find many resources to do so. I hope this game can help others who are interested in studying it!
-link: https://play.google.com/store/apps/details?id=com.shadowsora.PitchDash
+description: Pitch Dashは、日本語のアクセント（高低アクセント）を学ぶためのリズムゲームです。
+「雨（あ↑め↓）」と「飴（あ↓め↑）」のように、同じ読みでも異なるアクセントを持つ175語を収録しており、それぞれのパターンをゲームを通して学習できます。
+
+このゲームはUnityで開発し、サウンドトラックを含むすべてのアセットを自作しました。以前はGoogle Playストアで無料配信していましたが、現在は公開終了しており、Web版をitch.ioでプレイ可能です。
+
+自分自身が日本語のアクセントを勉強し始めた際に、学習に適したリソースが少なかったため、学習をサポートする目的でこのゲームを制作しました。
+link: https://youtu.be/SxP24QOuCKY?si=lWmx-ijs142OAeRV
 ---

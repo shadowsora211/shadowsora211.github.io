@@ -7,6 +7,8 @@ alt: image-alt
 project-date: April 2024
 client: Web Game
 category: UE4, Blueprints
-description: (Placeholder) This game was made in about 1.5 weeks for Minigame a Month - April 2024. The theme was "FARMING". This game is my first finished project made in Unreal Engine. Harvest crops, sell them to the shop and buy upgrades, all while defending your pigs from the wolves! Earn as much money as possible before all your pigs are gone to get the highscore.
+description: このゲームは、「Minigame a Month - 2024年4月」のために約1.5週間で制作しました。テーマは「FARMING（農業）」でした。
+
+本作はUnreal Engineで初めて完成させたゲームで、Webゲームとして出力するためにUnreal Engine 4.27で開発しました。エンジンに慣れることを目的として、すべてBlueprintのみで実装していますが、その後はUnrealでのC++によるプログラミングにも取り組んでいます。
 link: https://shadowsora211.itch.io/wolfwatch-valley-fields-and-foes
 ---

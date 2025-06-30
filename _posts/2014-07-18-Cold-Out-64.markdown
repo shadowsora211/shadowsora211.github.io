@@ -7,6 +7,11 @@ alt: image-alt
 project-date: December 2023
 client: Web Game
 category: Unity, C#
-description: (Placeholder) Help out your little brother, Pixel, to build an awesome snowman! if you search around, you might find some cool and unusual items to make the best snowman in the whole village (which consists of 2 houses and a tractor)... This game was originally made in 3 days for Cozy Winter Jam 2023. During the jam, we did not have enough time to add proper character models or polish our game, so we submitted what we had made as a demo version. Since the jam finished, we have updated the game to be how we originally intended it to be. There are 3 different endings depending on how you decorate your snowman
+description: このゲームは「Cozy Winter Jam 2023」のために3日間で制作しました。ジャム期間中は十分な時間が取れず、キャラクターモデルの実装やゲーム全体のブラッシュアップが間に合わなかったため、デモ版として提出しました。
+その後、当初の構想どおりの形に仕上げるため、ジャム終了後にアップデートを行いました。
+
+本作は初めてカットシーンを取り入れたゲームであり、そのために独自の簡易カットシーンシステムを開発しました。このシステムは複数のノードタイプとScriptable Objectを活用して構成されています。
+
+ゲームの目的はスノーマンを完成させることです。スノーマンの装飾の仕方によって、3種類の異なるエンディングが用意されています。
 link: https://shadowsora211.itch.io/cold-out-64
 ---

@@ -7,6 +7,10 @@ alt: image-alt
 project-date: April 2024
 client: Web Game
 category: Unity, C#
-description: (Placeholder) Made in 3 days for Cozy Spring Jam 2024. The jam theme was "New Beginnings". This game is a follow up to our game for Cozy Winter Jam 2023, Cold Out 64, with a few recurring characters. Move into your new town, make new friends, and take great photos. There are 2 different endings depending on whether you take the bonus photo.
+description: このゲームは「Cozy Spring Jam 2024」のために3日間で制作した作品で、ジャム終了後にいくつかの改善も加えました。テーマは「New Beginnings（新たな始まり）」でした。
+
+本作は「Cozy Winter Jam 2023」で制作した『Cold Out 64』の続編で、前作で構築したシステムをベースに開発を進めました。今回新たに追加したメイン要素は、街中のさまざまなランドマークを撮影する「写真撮影システム」です。
+
+また、自作のUnityカットシーンシステムにも新しいノード（例：2人のキャラクターが一緒に歩くノードなど）を追加し、演出面も強化しました。
 link: https://shadowsora211.itch.io/atarashii-sakura-story
 ---

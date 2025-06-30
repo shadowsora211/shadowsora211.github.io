@@ -7,6 +7,10 @@ alt: image-alt
 project-date: March 2021
 client: Web Game
 category: Unity, C#
-description: Bad Luck Cat is a road crossing game in which you play as a black cat. Unlike the traditional road crossing games, crossing the road safely will not score you any points! We devloped the game in 3 days for Wowie Jam 3.0. The topic was "FAILURE IS PROGRESS - Let's mess with the concepts of winning and losing". I did the programming and music and Daniel Bluchu did the art. We were ranked 2nd place out of 1,016 entries to the jam. Because we made the top 10, the game was featured in Jonas Tyroller's YouTube video "We Made 1023 Games Where [FAILURE is PROGRESS]".
+description: Bad Luck Catは、黒猫となって道路を横断するゲームです。テーマは「FAILURE IS PROGRESS - 勝ち負けの概念をひっくり返そう」でした。
+
+従来の道路横断ゲームとは異なり、安全に渡ってもスコアは得られません。代わりに、車同士を衝突させることでスコアを稼ぐというユニークなルールになっています。
+
+このゲームは「Wowie Jam 3.0」のために3日間で制作したもので、1,016作品中2位にランクインしました。上位10作品に選ばれたため、Jonas Tyroller氏のYouTube動画「We Made 1023 Games Where [FAILURE is PROGRESS]」でも紹介されました。
 link: https://shadowsora211.itch.io/bad-luck-cat
 ---

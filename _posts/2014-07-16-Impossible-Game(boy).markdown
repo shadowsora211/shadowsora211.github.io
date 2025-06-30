@@ -7,6 +7,10 @@ alt: image-alt
 project-date: September 2021
 client: Gameboy Game
 category: C, ZGB
-description: A small auto-runner for the Gameboy based on games like "The Impossible Game" and "Geometry Dash". It was developed over a couple of weekends for GBJAM9. The game is playable on a Gameboy using a flast cart, but can also be played in the web browser or by using an emulator.
+description: このゲームは、「The Impossible Game」や「Geometry Dash」にインスパイアされた小さなオートランナーで、「GBJAM9」のために数週末かけて制作しました。
+
+Game Boy用にC言語とZGBエンジンを使って開発しており、フラッシュカートリッジを使えば実機でプレイ可能です。Webブラウザやエミュレーターでもプレイできます。
+
+また、ファンがスコアに挑戦するためのページがretroachievements.orgに公開されており、コミュニティでも楽しまれています。
 link: https://shadowsora211.itch.io/impossible-gameboy
 ---
